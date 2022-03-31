@@ -1,2 +1,4 @@
-# E-commerce-Website-for-Electronic-items.
-This project deals with the online electronic store to buy some good products easily from home with your secure online payment option. Programming Language: PHP, MySQL, HTML, CSS, JavaScript, PayPal integration.
+# Online Electronic Store
+The target of this online store is enable the customer to browse the firm’s range of products and services,
+view photos or images of the products, along with information about the product specifications, features
+and prices
